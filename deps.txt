@@ -1,0 +1,18 @@
+0	React	Front End	Client
+1	ExpressJS	Back End	Service
+2	MariaDB	Back End	Database
+3	noparent	Extra	nodev
+4	React Native	Front End	Client
+5	K Means	Extra	Data Science
+6	Vite	Front End	Build Tool
+8	MongoDB	Back End	Database
+10	PUG	Back End	Templates
+11	MySQL	Back End	Database
+12	EJS	Back End	Templates
+13	PostgreSQL	Back End	Database
+14	Handlebars	Back End	Templates
+15	Work is still being uploaded	On progress	null
+16	Book an interview for a full review	Contact Me	null
+17	Work still being uploaded	Still Uploading	null
+18	Data filling is on progress	Check back soon	null
+19	TailwindCSS	Front End	Styles
