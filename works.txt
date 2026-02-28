@@ -1,10 +1,10 @@
 -1	3Interview	Contact me	2023	Personals	3E9NNRo1op8	https://inkscape.app/wp-content/uploads/imagen-vectorial.webp
-6	SFPlab	Create sci-fi stories in workshops as member or maker. A mobile app for education and creativity, focused on STEAM	2023	Jobs	3E9NNRo1op8	SFPlab5.png
+6	SFPlab	Create sci-fi stories in workshops as member or maker. A mobile app for education and creativity, focused on STEAM	2023	Jobs	3E9NNRo1op8	SFPlab6.png
 -1	-	-	-	-	-	-
 08	Bank Modern App	Responsive bank leading page, made with tailwind-css. It includes home, features, product and clients sections.	2023	courses	null	hoobank2.png
-09	CRM	null	2023	courses	null	default.png
-10	Real Estate	Real estate for sale, from houses to cabins at any price. Create an account and post yours now or contact with a seller	2023	courses	null	default.png
-11	Meeti	Find or create groups to share your interests. A site for joining meetings at any place, and connect with people like you	2023	courses	null	default.png
+10	Real Estate	Real estate for sale, from houses to cabins at any price. Create an account and post yours now or contact with a seller	2023	courses	null	real-estate.png
+11	Meeti	Find or create groups to share your interests. A site for joining meetings at any place, and connect with people like you	2023	courses	null	meeti2.png
 -1	DevJobs	Platform for developers to find jobs. Publish your offers as recruiter or apply as a candidate and send your CV	2023	courses	null	default.png
-12	DevJobs	Job finder for developers. Post your offers as recruiter or apply as a candidate by sending your CV	2023	courses	null	default.png
+12	DevJobs	Job finder for developers. Post your offers as recruiter or apply as a candidate by sending your CV	2023	courses	null	devjobs.png
 13	TakingNotes	null	2024-2025	Personals	null	default.png
+09	CRM	null	2023	courses	null	default.png
