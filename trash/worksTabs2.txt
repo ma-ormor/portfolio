@@ -1,7 +1,0 @@
-0	Long Title	Mi descripción es aquí	2023	cursos	3E9NNRo1op8	https://inkscape.app/wp-content/uploads/imagen-vectorial.webp
-1	2nd	Podemos escribir todo completo	2023	cursos	3E9NNRo1op8	https://www.widerangegalleries.com/images/xl/20191101-Dawn-over-the-Dolomites.jpg
-2	3rd	Details	2023	trabajo	8dFExnve2do	https://res.cloudinary.com/ddxwdqwkr/image/upload/v1632192015/smashing-articles/206-webp-ayousef-espanioly-DA_tplYgTow-unsplash.webp
-3	Interview	Contact me	2023	Personals	3E9NNRo1op8	https://inkscape.app/wp-content/uploads/imagen-vectorial.webp
-4	Tienda	Online	2023	cursos	3E9NNRo1op8	https://inkscape.app/wp-content/uploads/imagen-vectorial.webp
-5	Project	n/a	2023	cursos	3E9NNRo1op8	https://inkscape.app/wp-content/uploads/imagen-vectorial.webp
-6	SFPlab	descripción	2023	trabajo	3E9NNRo1op8	posters/SFPlab3.png
